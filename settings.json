@@ -5,7 +5,7 @@
     "password": "",
     "type": "ONLINE"
   },
-  "server": aternos:
+  "server":unstableMC-kIn.aternos.me:
     "ip": "unstableMC.aternos.me",
     "port": 57004,
     "version": "1.21.11"
